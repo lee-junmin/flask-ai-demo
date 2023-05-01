@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7d223d20-5ce5-48b7-89a2-e51d9efae46b/resourceGroups/junminrc-spring-app-pet/providers/Microsoft.Web/sites/junmin-flask",
+    "appService.deploySubpath": "."
+}
